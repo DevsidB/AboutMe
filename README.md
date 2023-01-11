@@ -46,5 +46,6 @@ I'm Siddhesh Bhosale, an aspiring Machine Learning and Data Science based in Mum
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 <br />
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter-notebook&logoColor=007ACC)&nbsp;
 
 <div>
