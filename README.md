@@ -23,7 +23,7 @@ I'm Siddhesh Bhosale, an aspiring Machine Learning and Data Science based in Mum
 
 <!-- Adding Social Buttons -->
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/devsidb">
+  <a href="https://www.linkedin.com/in/devsidb">
     <img src="https://img.shields.io/badge/Siddhesh Bhosale-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:siddhoff.dev@gmail.com">
