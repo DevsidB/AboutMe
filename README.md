@@ -8,7 +8,7 @@
 
 Hello,
 
-I'm Siddhesh Bhosale, an aspiring Machine Learning and Data Science based in Mumbai Maharashtra, Who is passionate about exploring new things and learning new technologies in the field of Data, Artificial Intelligence and Machine Learning. I am currently looking forward to collaborate on Open-Source projects, with a goal to be more involved in the Community.
+I'm Siddhesh Bhosale, an aspiring Machine Learning and Data Science based in Mumbai Maharashtra, who is passionate about exploring and learning new technologies in the field of Data, Artificial Intelligence and Machine Learning. I am currently looking forward to collaborate on Open-Source projects, with a goal to be more involved in the Community.
 
 
 - 🌱 I’m currently learning at **Data Science, Machine Learning, Deep Learning**
@@ -17,7 +17,7 @@ I'm Siddhesh Bhosale, an aspiring Machine Learning and Data Science based in Mum
 
 - 📫 How to reach me **siddhoff.dev@gmail.com**
 
-- ⚡  **I believe that with passion, perseverance and teamwork, together we can achieve anything. **
+- ⚡ **I believe that with passion, perseverance and teamwork, together we can achieve anything.**
 
 
 
