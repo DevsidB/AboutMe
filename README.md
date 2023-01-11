@@ -13,7 +13,7 @@ I'm Siddhesh Bhosale, an aspiring Machine Learning and Data Science based in Mum
 
 - 🌱 I’m currently learning at **Data Science, Machine Learning, Deep Learning**
 
- - 👨‍💻 Resume & All of my projects are available at  <a href="https://drive.google.com/file/d/1YSdnTv_-z5OTqZ0mu3sRJZ-anviFnD1G/view?usp=share_link">Click Me</a>  
+ - 👨‍💻 Resume & All of my projects are available at  <a href="https://drive.google.com/file/d/1P18mYMoje8L0k01njKWemUkpdQW0_WlK/view?usp=share_link">Click Me</a>  
 
 - 📫 How to reach me **siddhoff.dev@gmail.com**
 
